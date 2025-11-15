@@ -1,0 +1,14 @@
+Int Pares
+Int Impares
+
+imprima "quer iniciar o programa? 1 para começar e 0 para terminar"
+
+Imprima "Digite alguns números"
+Armazene os números
+
+Se alguns dessese números armzenados for divisivel por 2
+Adicione 1 a números pares
+Senão
+Adicione 1 a Números Impares
+
+Imprima "Há %d números pares e %d Impares", pares, impares

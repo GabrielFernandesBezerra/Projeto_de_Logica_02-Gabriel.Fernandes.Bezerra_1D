@@ -1,0 +1,8 @@
+imprima "quer iniciar o programa? 1 para começar e 0 para terminar"
+
+imprima "digite um número para tabuada"
+leia o número digitado
+
+Comece multiplicando o numero pelo zero e vá aumentando a multiplicação até 10 conforme o tempo
+Imprima "essa é a tabuada do número:"
+Imprima a multiplicação

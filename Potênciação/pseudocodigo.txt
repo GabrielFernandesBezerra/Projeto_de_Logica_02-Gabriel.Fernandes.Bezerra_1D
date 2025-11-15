@@ -1,1 +1,9 @@
-Potênciação/pseudocodigo.txtPotênciação/potenciacao.cContador de Números Pares e Ímpares/Pseudocodigo.txtContador de Números Pares e Ímpares/CNPI.CTabuada/Tabuada.c
+imprima "quer iniciar o programa? 1 para começar e 0 para terminar"
+
+imprima "Digite a base da potência"
+Armazene o número digitado
+
+Imprima "Digite o expoente"
+aramzene o expoente
+
+Imprima "O resultado é: ", número potenciado ao expoente
