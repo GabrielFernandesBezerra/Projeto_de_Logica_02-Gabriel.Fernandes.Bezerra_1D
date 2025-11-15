@@ -1,0 +1,1 @@
+Potênciação/pseudocodigo.txtPotênciação/potenciacao.cContador de Números Pares e Ímpares/Pseudocodigo.txtContador de Números Pares e Ímpares/CNPI.CTabuada/Tabuada.c
