@@ -32,6 +32,10 @@ while(sair == 1) {
 //A Conclusão, em uma linha vai imprimir a quantidade que foi armazenada em números pares e na outra linha vai imprimir os impares   
         printf ("\n|| Tem %d números pares   || \n", pares);
         printf ("|| Tem %d números impares ||\n\n", impares);
+
+//reinicia os Valores de Par e Impares para não se somarem no loop
+        pares = 0;
+        impares = 0;
 }
     return 0;
 

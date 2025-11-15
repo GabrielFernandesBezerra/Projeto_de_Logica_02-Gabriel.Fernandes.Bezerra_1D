@@ -1,3 +1,4 @@
+
 #include <stdio.h>
 
 //isso inclui uma biblioteca de códigos que permite realzar operações mais avançadas, como o Pow na linha 32
