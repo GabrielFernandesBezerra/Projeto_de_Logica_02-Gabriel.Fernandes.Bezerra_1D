@@ -1,0 +1,1 @@
+# Projeto_de_Logica_02-Gabriel.Fernandes.Bezerra_1D
